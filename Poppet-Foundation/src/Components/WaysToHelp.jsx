@@ -132,7 +132,7 @@ const WaysToHelp = () => {
                   <div>
                     <p className="text-sm text-gray-500">Email us at:</p>
                     <a 
-                      href="poppetfoundation.official@gmail.com" 
+                      href="mailto:poppetfoundation.official@gmail.com" 
                       className="text-blue-600 hover:text-blue-700 font-semibold"
                     >
                       poppetfoundation.official@gmail.com
@@ -182,6 +182,5 @@ const WaysToHelp = () => {
     </>
   );
 };
-
 
 export default WaysToHelp;
