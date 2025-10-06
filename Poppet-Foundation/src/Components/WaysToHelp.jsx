@@ -132,7 +132,7 @@ const WaysToHelp = () => {
                   <div>
                     <p className="text-sm text-gray-500">Email us at:</p>
                     <a 
-                      href="mailto:donations@yourorganization.com" 
+                      href="poppetfoundation.official@gmail.com" 
                       className="text-blue-600 hover:text-blue-700 font-semibold"
                     >
                       poppetfoundation.official@gmail.com
@@ -146,7 +146,7 @@ const WaysToHelp = () => {
                   <div>
                     <p className="text-sm text-gray-500">Call us at:</p>
                     <a 
-                      href="tel:+1234567890" 
+                      href="tel:+923019033263" 
                       className="text-green-600 hover:text-green-700 font-semibold"
                     >
                       +92 (301) 9033263
@@ -182,5 +182,6 @@ const WaysToHelp = () => {
     </>
   );
 };
+
 
 export default WaysToHelp;
